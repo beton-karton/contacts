@@ -1,0 +1,13 @@
+.wrapper{
+    border-radius: 20px;
+    padding: 20px;
+}
+a{
+    cursor: pointer;
+    text-decoration: none;
+}
+.letter-list{
+    border: none;
+    background-color: #CCC;
+    padding: 3px 10px;
+}
